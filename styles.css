@@ -110,7 +110,9 @@ input[type=submit] {
   border: 1px solid #e67e22;
   color: #fff;
   transition: background-color 0.2s, border 0.2s, color 0.2s;
-}#cf
+}
+
+#cf
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
@@ -144,7 +146,7 @@ input[type=submit] {
 /* ------ */
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/Udemy/Resources/Images/hero.jpg);
+    url(./Resources/Images/hero.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
